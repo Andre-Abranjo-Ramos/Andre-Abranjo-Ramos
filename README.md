@@ -62,8 +62,10 @@ Aqui estão alguns projetos onde apliquei minha paixão por dados:
 
 Seja para trocar ideias sobre projetos, discutir novas tecnologias ou falar sobre o mercado de dados:
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/andre-abranjo-ramos/)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/andre-abranjo-ramos)
 [![E-mail](https://shields.io)](mailto:abranjo.ramos@gmail.com)
+
+
 🔗 Conheça meu portfólio interativo: [[andre-abranjo-ramos.github.io/Site](https://andre-abranjo-ramos.github.io/Site/)
 
 
