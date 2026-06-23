@@ -25,8 +25,8 @@ Sempre fui fascinado pela forma como os dados moldam o mundo ao nosso redor. Par
       <br />Python
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev" width="40" height="40" alt="Qliksence" />
-      <br />Qliksence
+      <img src="https://skillicons.dev" width="40" height="40" alt="Qlik Sence" />
+      <br />Qlik Sence
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev" width="40" height="40" alt="SQL" />
