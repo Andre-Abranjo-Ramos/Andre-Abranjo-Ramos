@@ -15,37 +15,19 @@ Sempre fui fascinado pela forma como os dados moldam o mundo ao nosso redor. Par
 
 ---
 
+
 ## Algumas Ferramentas e Tecnologias
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev" width="40" height="40" alt="Python" />
-      <!-- Se não usar Python, pode trocar o ícone usando o skillicons.dev -->
-      <br />Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev" width="40" height="40" alt="Qlik Sence" />
-      <br />Qlik Sence
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev" width="40" height="40" alt="SQL" />
-      <br />SQL
-    </td>
-     <td align="center" width="120">
-      <img src="https://skillicons.dev" width="40" height="40" alt="Power BI" />
-      <br />Power BI
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev" width="40" height="40" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev" width="40" height="40" alt="Excel" />
-      <br />Excel
-    </td>
+    <td align="center" width="110"><img src="https://skillicons.dev" width="45" height="45" alt="Python" /><br /><b>Python</b></td>
+    <td align="center" width="110"><img src="https://skillicons.dev" width="45" height="45" alt="SQL" /><br /><b>SQL</b></td>
+    <td align="center" width="110"><img src="https://iconify.design" width="45" height="45" alt="Qlik Sense" /><br /><b>Qlik Sense</b></td>
+    <td align="center" width="110"><img src="https://skillicons.dev" width="45" height="45" alt="Power BI" /><br /><b>Power BI</b></td>
+    <td align="center" width="110"><img src="https://skillicons.dev" width="45" height="45" alt="Git" /><br /><b>Git</b></td>
   </tr>
 </table>
+
 
 ---
 
